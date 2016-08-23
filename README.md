@@ -1,5 +1,5 @@
 # Feature Selection
-Analysis a data set of features and finds the set of features that give a good chance of classifying something. Uses three methods:  
+Analyze a data set of features and finds the set of features that give the highest accuracy of classifying an object. Uses three methods:  
 1. Forward Search  
 2. Backwards Elimination  
 3. Modified Forward Search (slightly faster forward search)
